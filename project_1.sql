@@ -7,6 +7,14 @@ will take to complete each item. Insert another item to your todo list
 -- OBJECTIVE  1)NAME OF TASK 
 --            2)TIME IT TAKES
 
+
+
+
+--motto 
+--learn  how to add values  ln.28
+--to learn how to add new columns into the table ln.25
+--how to delete table values ln.37
+
 CREATE TABLE IF NOT EXISTS to_do(
     id int PRIMARY KEY AUTO_INCREMENT,
     taskname VARCHAR(49)

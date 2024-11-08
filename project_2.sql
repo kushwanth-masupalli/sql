@@ -5,6 +5,20 @@ Create your own store! Your store should sell one type of things, like clothing 
   in your store, and at least 5 columns for the kind of data you think you'd need to store. 
   You should sell at least 15 items, and use select statements to order your items by price
    and show at least one statistic about the items.*/
+
+
+
+--motto 
+
+--how to use auto increment for primary keys
+--how to update a table row
+
+
+
+
+
+
+
 drop table store;
 create table if not exists store(
     id int primary key AUTO_INCREMENT,
