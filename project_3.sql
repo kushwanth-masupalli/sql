@@ -21,7 +21,7 @@ Note that the duration column is measured in seconds.*/
 
 
 
-drop table songs;
+
 CREATE TABLE IF NOT EXISTS songs(
      id int primary key AUTO_INCREMENT,
      name VARCHAR(200),
